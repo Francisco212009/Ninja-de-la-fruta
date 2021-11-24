@@ -1,1 +1,1 @@
-# Ninja-de-la-fruta
+# plantilla-del-proyecto-corta-tus-frutas
